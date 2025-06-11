@@ -1,1 +1,1 @@
-echo "my clone version1"
+echo "my clone version2"
